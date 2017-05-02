@@ -4,6 +4,12 @@ body{
 	color: grey;
 	text-height: 2em;
 	text-decoration:none;
+	background-image: url(images/bg.gif);
+	background-repeat: repeat-x;
+
+}
+li{
+	list-style-type: none;
 }
 a{
 	color: #727272;

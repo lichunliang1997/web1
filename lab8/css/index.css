@@ -5,3 +5,9 @@
 	font-weight: 900;
 	color: #65a7d0;
 }
+.li{
+	list-style-type: disc;
+}
+.white{
+	color:white;
+}
