@@ -1,0 +1,209 @@
+
+
+body{
+	margin:0px auto;
+	text-align: center;
+	font-size: 12px;
+	color: #522a06;
+	font-family: 宋体;
+	padding: 0px;
+}
+a{
+	color: #522a06;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:active{
+	text-decoration: none;
+	color: #522a06;
+}
+a:visited{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+#header{
+		height: 205px;
+		margin:0px auto;
+		text-align: center;
+}
+#banner{
+	height: 164px;
+	width: 1000px;
+	margin:0 auto;
+	text-align: center;
+}
+.logo{
+	position: relative;
+	right: 250px;
+	top: 50px;
+}
+#nav{
+	height: 40px;
+}
+#nav_body{
+	width: 1000px;
+	margin: 0px auto;
+	text-align: center;
+}
+#nav_content{
+	width: 800px;
+	float: left;
+}
+#nav_content a{
+	color: #fff;
+	line-height: 40px;
+	font-weight: 900;
+}
+#nav_search{
+	float: left;
+	height: 40px;
+	padding-top: 5px;
+}
+#text{
+	width: 140px;
+	height: 19px;
+	background-color: #f8f5ee;
+}
+#button{
+	width: 44px;
+	height: 21px;
+	background-color: #000;
+	border: 1px solid #f8f5ee;
+	color: #fff;
+}
+
+
+
+
+
+#content{
+	width: 1000px;
+	height: 650px;
+	margin: 0px auto;
+}
+#content_top{
+	width: 1000px;
+	height: 25px;
+	font-size: 1.2em;
+	font-weight: 600;
+	text-align: left;
+}
+#content_middle{
+	width: 1000px;
+	height: 550px;
+}
+#content_middle_left{
+	width: 200px;
+	height: 550px;
+	float: left;
+}
+#dongtai{
+	width: 200px;
+	height: 230px;
+	margin-bottom: 20px;
+}
+#dongtai ul li{
+	list-style-type: none;
+	font-weight: 900;
+	font-size: 1.2em;
+	line-height: 30px;
+	position: relative;
+	right: 25px;
+	bottom: 45px;
+}
+
+#gengxin{
+	width: 200px;
+	height: 200px;
+	margin-bottom: 20px;
+}
+#a{
+	position: relative;
+	top: 20px;
+}
+#gengxin ul li{
+	list-style-type: none;
+	font-weight: 900;
+	font-size: 1.2em;
+	line-height: 30px;
+	position: relative;
+	right: 25px;
+	top: 20px;
+
+}
+#dianhua{
+	width: 200px;
+	height: 70px;
+}
+#content_middle_right{
+	width: 760px;
+	height: 550px;
+	float: right;
+
+}
+#zhaosheng{
+	width: 760px;
+	height: 45px;
+	margin-bottom: 20px;
+}
+#zhaosheng p{
+	font-size: 2em;
+	font-weight: 500;
+	position: relative;
+	top: 5px;
+	right: 270px;
+}
+#zhaosheng2{
+	width: 760px;
+	height: 480px;
+}
+#zhaosheng2 ul li{
+	line-height: 30px;
+	
+}
+#zhaosheng2 span{
+	float: right;
+}
+#content_bottom{
+	width: 800px;
+	height: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: right;
+}
+#b{
+	border: 1px solid black;
+	padding: 5px 10px 5px 10px;
+	margin: 0px;
+}
+
+
+
+
+
+
+
+
+#footer{
+	width: 700px;
+	height: 100px;
+	margin: 0px auto;
+	font-weight: 600;
+}
+
+
+
